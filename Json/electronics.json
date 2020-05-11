@@ -1,0 +1,38 @@
+{
+		"electronics": [
+            {
+				"id":1,
+				"name": "Apple iPhone XR (128GB)",
+				"review":"4.0(Good)",
+				"price": "98000.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/iphone.jpg"
+			},
+			{
+				"id":2,
+				"name": "Anker® Power Adapter",
+				"price": "15999.00",
+				"review":"4.2(Good)",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/anker.jpg"
+			},
+			{
+				"id":3,
+				"name": "TEXAS Graphing Calculator",
+				"review":"4.0(Good)",
+				"price": "17999.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/ti.jpg"
+			},
+			{
+				"id":4,
+				"name": "Samsung MicrowaveOven",
+				"review":"3.8(Average)",
+				"price": "7000.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/microwave.jpg"
+			},
+			{	"id":5,
+				"name": "LG Ultra HD SmartTV ",
+				"review":"4.5(Good)",
+				"price":"799999.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/tv.jpg"
+			}
+		]
+}

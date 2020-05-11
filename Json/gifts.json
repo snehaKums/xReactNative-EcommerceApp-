@@ -1,0 +1,39 @@
+{
+	"gifts":[
+		{
+				"id":1,
+				"name": "CrackOfDawn Explosion Box",
+				"review":"4.5(Good)",
+				"price": "400.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/card.jpg"
+			},
+			{
+				"id":2,
+				"name": "Giant Cute Teddy Bear",
+				"review":"3.8(Average)",
+				"price": "8999.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/teddy.jpg"
+			},
+			{
+				"id":3,
+				"name": "Hershey's Chocolate set",
+				"review":"4.0(Good)",
+				"price": "275.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/choclate.jpg"
+			},
+			{
+				"id":4,
+				"name": "Crownlit 3In1 Gift-set",
+				"review":"4.6(Good)",
+				"price": "393.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/pen.jpg"
+			},
+			{
+				"id":5,
+				"name": "Axe Men’s Grooming Kit ",
+				"review":"4.4(Good)",
+				"price": "599.00",
+				"img": "https://raw.githubusercontent.com/sajalbain/shopping/master/axe.jpg"
+			}
+    ]
+}
